@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-[- Solution URL ](https://github.com/RedSquirrrel/todo)
+[- Solution URL ](https://github.com/kartos-1993/todolist-v2)
 
 [- Live Site URL](https://redsquirrrel.github.io/todo/)
 
@@ -100,7 +100,3 @@ listContainer.appendChild(taskElement);
 
 - [YouTube](https://www.youtube.com/watch?v=W7FaYfuwu70&t=1252s) - This helped me to understand the **template** tag and how to use it
 
-## Author
-
-- Website - [Anette](https://redsquirrrel.github.io/todo/)
-- Frontend Mentor - [@RedSquirrrel](https://www.frontendmentor.io/profile/RedSquirrrel)
