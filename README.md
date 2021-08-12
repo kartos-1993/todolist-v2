@@ -41,7 +41,7 @@ Users should be able to:
 
 [- Solution URL ](https://github.com/kartos-1993/todolist-v2)
 
-[- Live Site URL](https://redsquirrrel.github.io/todo/)
+[- Live Site URL](https://todo-b2132.web.app/)
 
 ## My process
 
